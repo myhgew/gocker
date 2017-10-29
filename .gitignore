@@ -5,3 +5,7 @@ go/src/*
 go/src/app/goapp
 
 **/debug
+
+
+# dep
+vendor
