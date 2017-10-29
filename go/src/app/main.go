@@ -14,6 +14,7 @@ func main() {
 		tt = 9
 		wt.Clean()
 	}
-	fmt.Printf("%d", tt)
+	fmt.Printf("%d\n", tt)
 	fmt.Printf("Hello, world.\n")
+	fmt.Printf("Hello again!\n")
 }
